@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798224992039",
+    "project_id": "e-commerce-sport-27122",
+    "storage_bucket": "e-commerce-sport-27122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798224992039:android:1e2ffbc440024c68d4cb02",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_sport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798224992039-pgu4alpkt9bbjeo3jr6l3qcm8rp7pe6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKUeiasVU64RE051R71JXS-EZ50yMe8d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798224992039-pgu4alpkt9bbjeo3jr6l3qcm8rp7pe6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
